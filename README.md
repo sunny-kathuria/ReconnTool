@@ -7,9 +7,9 @@ How to use
 
 
 
-python [Folder_name] [URL with top level domain and without www ]
+python main.py [Folder_name] [URL with top level domain and without www ]
 
--> python Google google.com
+-> python main.py Google google.com
 
 
 Folder named Google will be created and output files will also created in it.
