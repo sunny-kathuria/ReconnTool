@@ -1,7 +1,7 @@
 # ReconnTool
 Hello Everyone!
 This is Linux based Python tool to perform Reconnaissance which is saving output from various methods of Reconnaissance 
-like whois, nmap, robots.txt
+like whois, nmap scan[By default option -F but it can be changed], robots.txt
 
 How to use
 
